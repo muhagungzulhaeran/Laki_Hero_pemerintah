@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "494735212269",
+    "project_id": "lakihero-dc7d1",
+    "storage_bucket": "lakihero-dc7d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494735212269:android:022224b1b9721cf74e96e4",
+        "android_client_info": {
+          "package_name": "com.example.laki_hero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZs6JV6Btyl_31YES01p6beY26CoLAKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494735212269:android:18905cff688532b44e96e4",
+        "android_client_info": {
+          "package_name": "com.example.pemerintahan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZs6JV6Btyl_31YES01p6beY26CoLAKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

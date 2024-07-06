@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Laki Hero - PD Parkir</string>
+    <string name="signin">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="noaccount">Belum punya akun?</string>
+    <string name="signup">Sign up</string>
+    <string name="nama">Nama</string>
+    <string name="haveaccount">Sudah punya akun?</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="home">Beranda</string>
+    <string name="tentangaplikasi">Tentang</string>
+    <string name="reward">Reward</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="about">About</string>
+    <string name="laporanWarga">Laporan Warga</string>
+    <string name="profile">Profil</string>
+    <string name="empty_image_warning">Masukkan gambar dulu</string>
+    <string name="place">Tempat</string>
+    <string name="status">Status</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tanggal">20 juni 2024</string>
+    <string name="search">Cari</string>
+    <string name="searchBar_hint">Masukkan kata</string>
+    <string name="BASE_URL">"https://story-api.dicoding.dev/v1"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="laporanterbaru">Laporan terbaru</string>
+    <string name="buatlaporan">Buat laporan</string>
+    <string name="signout">Sign Out</string>
+    <string name="kamera">Kamera</string>
+    <string name="tempat">Tempat</string>
+    <string name="deskripsiadd">Tambahkan deskripsi kondisi tempat, juru parkir, dan harga</string>
+    <string name="submit">Submit</string>
+    <string name="detaillaporan">Detail laporan</string>
+    <string name="imagedetail">imageDetail</string>
+    <string name="edit">Edit</string>
+    <string name="address">Address</string>
+    <string name="close">Close</string>
+    <string name="largeText">"LAKI-HERO" adalah aplikasi mobile yang dirancang untuk membantu masyarakat melaporkan keberadaan juru parkir liar dengan mudah, cepat, efektif dan efisien. Aplikasi ini menyediakan platform yang user-friendly, sehingga semua kalangan masyarakat dapat menggunakannya tanpa kesulitan.
+                                Dengan desain antarmuka yang sederhana namun efektif, pengguna dapat melaporkan lokasi juru parkir liar hanya dengan beberapa ketukan di layar ponsel anda.</string>
+    <string name="support">Supported by \nPD Parkir Raya Makassar</string>
+    <string name="beranda">Beranda</string>
+    <string name="tentang">Tentang</string>
+    <string name="pdparkir">pdparkir</string>
+    <string name="poin">Poin saya</string>
+    <string name="nomor">1500</string>
+    <string name="tolak">Tolak</string>
+    <string name="terima">Terima</string>
+    <string name="location">Location</string>
+    <string name="tr">TR</string>
+    <string name="trainingrecommendation">Recommendation based - AI</string>
+    <string name="isidatadiri">Silakan isi data diri anda!!!</string>
+    <string name="umur">Umur</string>
+    <string name="jeniskelamin">Jenis kelamin</string>
+    <string name="pendidikan">Pendidikan</string>
+    <string name="hobi">Hobi</string>
+    <string-array name="jenis_kelamin">
+        <item>Laki - laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="pendidikan">
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>S1</item>
+    </string-array>
+    <string-array name="hobby">
+        <item>menggambar</item>
+        <item>sosial</item>
+        <item>berwirausaha</item>
+
+    </string-array>
+</resources>
